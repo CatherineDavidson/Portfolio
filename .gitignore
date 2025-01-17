@@ -1,2 +1,1 @@
-node_modules/
-frontgit rm -r --cached node_modules
+node_modules
